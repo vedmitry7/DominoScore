@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "585013479989",
+    "firebase_url": "https://dominoscore-7c030.firebaseio.com",
+    "project_id": "dominoscore-7c030",
+    "storage_bucket": "dominoscore-7c030.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585013479989:android:79946d774aba8acf",
+        "android_client_info": {
+          "package_name": "com.vedmitryapps.dominoscore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "585013479989-utbklnq0n8rpu2ucbip697cqdfe4p40v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vedmitryapps.dominoscore",
+            "certificate_hash": "b8cf774c28c500c519b7ac097ee95759090c3967"
+          }
+        },
+        {
+          "client_id": "585013479989-2jf70um6ft9pi682mdphhs3jj7gqcrnt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vedmitryapps.dominoscore",
+            "certificate_hash": "8d1f3441dd9d82fc4682d5dbd58058d5a6358cae"
+          }
+        },
+        {
+          "client_id": "585013479989-buthc785n3cugrkb9il1l7soma0p3rl6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcyirWqcQdMDr06peokYBpknbhI2UNOa0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "585013479989-buthc785n3cugrkb9il1l7soma0p3rl6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
